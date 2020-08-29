@@ -1,10 +1,9 @@
 body {
   font-family: "Roboto", sans-serif;
   font-size: 14px;
-  color: #757575;
-  background-color: #ffffff;
+  color: $primary-text-color;
+  background-color: $background-color-main;
 }
-
 img {
   display: block;
   max-width: 100%;
@@ -13,13 +12,11 @@ img {
 .link {
   text-decoration: none;
 }
-
 .list {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-
 .container {
   width: 1200px;
   padding-left: 15px;
@@ -27,4 +24,3 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-/*# sourceMappingURL=main.css.map */
