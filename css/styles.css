@@ -23,7 +23,7 @@ font-family: 'Roboto', sans-serif; основной
   --background-color-footer: #2f303a;
   --transition-duration: 250ms;
 } */
-@font-face {
+/* @font-face {
   font-family: "Roboto";
   src: url("../fonts/roboto-v20-latin_cyrillic-regular.woff2") format("woff2"),
     url("../fonts/roboto-v20-latin_cyrillic-regular.woff") format("woff");
@@ -53,7 +53,7 @@ font-family: 'Roboto', sans-serif; основной
     url("../fonts/raleway-v17-latin_cyrillic-700.woff") format("woff");
   font-weight: 700;
   font-style: normal;
-}
+} */
 
 /* body {
   font-family: "Roboto", sans-serif;
